@@ -1,5 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">  
+     <h1 align="center"> Hi there 👋 I´m Cristian Bechero</h1>
+     <h3 align="center"> I am a student of the Full Stack career, which I am studying through Coder House. Below I leave you my social networks for future contacts. </h3>
+</div> 
+<div id="badges" align="center">
+<a href="https://twitter.com/Bechero97">
+    <img src="https://img.shields.io/twitter/follow/Bechero97?color=gre&logo=Twitter&style=for-the-badge" alt="Twitter Badge">
+</a>
 
+</div>
 <!--
 **CristianBechero/cristianbechero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
